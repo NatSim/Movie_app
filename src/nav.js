@@ -5,19 +5,20 @@ export const navigation = () => {
 
     const movie = document.createElement("a")
     movie.textContent = "Movie"
-   movie.href = "#movie"
+    movie.href = "#movie"
    
     const signin = document.createElement("a")
     signin.textContent = "signIn"
-   signin.href = "#signin"
+    signin.href = "#signin"
    
     const contact= document.createElement("a")
     contact.textContent = "Contact us"
-   contact.href = "#contact"
+    contact.href = "#contact"
    
     const login= document.createElement("a")
     login.textContent = "login"
     login.href = "#login"
+    login.id = "login";
 
     let appendItems = [movie, signin, contact,login]
     appendItems.forEach(items => {
@@ -33,7 +34,14 @@ export const signIn = () => {
    let signInForm = document.createElement("form")
    let signInInput = document.createElement("input")
    parent.appendChild(signInForm).appendChild(signInInput)
-console.log(parent)
+console.log(parent);
 }
 signIn()
+
+
+//LOG IN Section
+
+
+
+
 
