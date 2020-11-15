@@ -1,3 +1,2 @@
-import {navigation,signIn} from "./src/nav.js";
-console.log(signIn)
-console.log(navigation)
+import { navigation, signIn } from "./src/nav.js";
+import { signUp } from './src/signUp.js';
