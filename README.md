@@ -2,7 +2,7 @@
 
 <h1>Movie APP Project</h1>
 
-A collaboration to create a Movie Application.
+A collaborative project to create a Movie Application.
 
 <h2>Contributors</h2>
 
