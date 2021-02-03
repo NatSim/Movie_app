@@ -1,6 +1,6 @@
 # Movie_app
 
-<h1>Movie Project</h1>
+<h1>Movie APP Project</h1>
 
 A collaboration to create a Movie Application.
 
