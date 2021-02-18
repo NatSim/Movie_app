@@ -6,6 +6,6 @@ A collaborative project to create a Movie Application.
 
 <h2>Contributors</h2>
 
-*  <a @NatSim <a/>
+*  @NatSim 
 *  @idmanhussein
 *  @tosimiadesoye
